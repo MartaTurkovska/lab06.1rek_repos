@@ -1,0 +1,4 @@
+﻿  UnitTest6.1rek.cpp
+C:\Users\Admin\Desktop\Марта, Політехніка\Алгоритмізація та програмування\ЛР 6\1\рекурсивний\lab_6.1rek\lab_6.1rek.cpp(44): warning C4715: 'sum_element': not all control paths return a value
+C:\Users\Admin\Desktop\Марта, Політехніка\Алгоритмізація та програмування\ЛР 6\1\рекурсивний\lab_6.1rek\lab_6.1rek.cpp(32): warning C4715: 'array_count': not all control paths return a value
+  UnitTest6.1rek.vcxproj -> C:\Users\Admin\Desktop\Марта, Політехніка\Алгоритмізація та програмування\ЛР 6\1\рекурсивний\lab_6.1rek\Debug\UnitTest6.1rek.dll
